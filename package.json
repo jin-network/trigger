@@ -1,0 +1,18 @@
+{
+  "name": "trigger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "eosjs": "^20.0.3",
+    "log4js": "^6.2.0",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0"
+  }
+}
