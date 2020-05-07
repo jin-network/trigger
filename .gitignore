@@ -9,4 +9,5 @@ test*
 todo
 cmd*
 config.js
-release.sh
+config_test.js
+release*
