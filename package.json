@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "eosjs": "^20.0.3",
     "log4js": "^6.2.0",
     "moment": "^2.24.0",
